@@ -1,9 +1,0 @@
-MySQL is the most popular Open Source Relational SQL database management system. MySQL is one of the best RDBMS being used for developing web-based software applications.
-
-This tutorial will give you quick start with MySQL and make you comfortable with MySQL programming.
-
-Audience
-This reference has been prepared for the beginners to help them understand the basics to advanced concepts related to MySQL languages.
-
-Prerequisites
-Before you start doing practice with various types of examples given in this reference, I'm making an assumption that you are already aware about what is database, especially RDBMS and what is a computer programming language.
